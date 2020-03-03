@@ -1,33 +1,3 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org//ckanext-duplicateresource.svg?branch=master
-    :target: https://travis-ci.org//ckanext-duplicateresource
-
-.. image:: https://coveralls.io/repos//ckanext-duplicateresource/badge.svg
-  :target: https://coveralls.io/r//ckanext-duplicateresource
-
-.. image:: https://pypip.in/download/ckanext-duplicateresource/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-duplicateresource/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-duplicateresource/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-duplicateresource/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-duplicateresource/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-duplicateresource/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-duplicateresource/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-duplicateresource/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-duplicateresource/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-duplicateresource/
-    :alt: License
-
 =============
 ckanext-duplicateresource
 =============
@@ -63,7 +33,7 @@ To install ckanext-duplicateresource:
 
      pip install ckanext-duplicateresource
 
-3. Add ``duplicateresource`` to the ``ckan.plugins`` setting in your CKAN
+3. Add ``duplicate_dictionary`` to the ``ckan.plugins`` setting in your CKAN
    config file (by default the config file is located at
    ``/etc/ckan/default/production.ini``).
 
